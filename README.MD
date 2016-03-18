@@ -16,7 +16,8 @@ U.S. spy satellites, aircrafts and ships have been secretly watching for days as
 The U.S. is unsure if the missing vessel is adrift under the sea or whether it has sunk, the officials said, but believes it suffered some type of failure during an exercise.
 
 
-![alt tag](/Screenshots/Demo.gif)
+![alt tag](/Screenshots/Screenshot1.png)
+![alt tag](/Screenshots/Screenshot2.png)
 
 
 #### Installation ####
