@@ -9,7 +9,9 @@ Nevertheless, it is a fun little app that uses a natural language processing RES
 Input URL: http://www.cnn.com/2016/03/11/politics/u-s-says-north-korean-submarine-missing/index.html
 
 Output:
-The North Korean regime lost contact with one of its submarines earlier this week, three U.S. officials familiar with the latest information told CNN. U.S. spy satellites, aircrafts and ships have been secretly watching for days as the North Korean navy searched for the missing sub. The U.S. is unsure if the missing vessel is adrift under the sea or whether it has sunk, the officials said, but believes it suffered some type of failure during an exercise.
+The North Korean regime lost contact with one of its submarines earlier this week, three U.S. officials familiar with the latest information told CNN. 
+U.S. spy satellites, aircrafts and ships have been secretly watching for days as the North Korean navy searched for the missing sub. 
+The U.S. is unsure if the missing vessel is adrift under the sea or whether it has sunk, the officials said, but believes it suffered some type of failure during an exercise.
 ```
 
 ![alt tag](/Screenshots/Demo.gif)
