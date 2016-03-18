@@ -7,5 +7,8 @@ Nevertheless, it is a fun little app that uses a NLP REST API to do someting pre
 #### Demo/Screenshots ####
 ![alt tag](/Screenshots/Demo.gif)
 
+![alt tag](/Screenshots/Screenshot1.png)
+![alt tag](/Screenshots/Screenshot2.png)
+![alt tag](/Screenshots/Screenshot3.png)
 #### Installation ####
 More info to come...
