@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SNews</string>
+    <string name="titleStr">This is a simple app that summarizes news articles.
+    Simply enter the URL below and click summarize!</string>
+    <string name="copyClipStr">Copy from Clipboard</string>
+    <string name="clearSTR">Clear</string>
+    <string name="urlSTR">URL</string>
+    <string name="sumSTR">Summarize!</string>
+    <string name="title_activity_display_message">Summary</string>
+</resources>
