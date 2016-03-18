@@ -21,4 +21,6 @@ The U.S. is unsure if the missing vessel is adrift under the sea or whether it h
 ![Demo](/Screenshots/Demo.gif)
 
 #### Installation ####
-To install, simply download the NewsSummarizer.apk and install it to your Android device (it's going to need network access- I promise I'm not stealing your data). Then open up SNews on your phone and enjoy!
+To install, simply download the NewsSummarizer.apk and install it to your Android device (it's going to need network access- I promise I'm not stealing your data). 
+
+Then open up SNews on your phone and enjoy!
